@@ -27,7 +27,7 @@ namespace ServerCenter
                 Console.ReadKey();
                 return;
             }
-            EchoServer server = bootstrap.AppServers.SingleOrDefault(s => s.Name == "EchoServer") as EchoServer;
+            RainfallServer server = bootstrap.AppServers.SingleOrDefault(s => s.Name == "RainfallServer") as RainfallServer;
             if (server==null)
             {
                 LOGGER.Error("协议解析器服务器未找到.");

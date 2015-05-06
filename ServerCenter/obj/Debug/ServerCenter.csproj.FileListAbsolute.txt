@@ -1,3 +1,6 @@
+E:\ServerCenter\ServerCenter\bin\Debug\ServerCenter.exe.config
+E:\ServerCenter\ServerCenter\obj\Debug\ServerCenter.exe
+E:\ServerCenter\ServerCenter\obj\Debug\ServerCenter.pdb
 E:\CSharpWorkSpace\ServerCenter\ServerCenter\bin\Debug\Config\log4net.config
 E:\CSharpWorkSpace\ServerCenter\ServerCenter\bin\Debug\ServerCenter.exe.config
 E:\CSharpWorkSpace\ServerCenter\ServerCenter\bin\Debug\ServerCenter.exe
@@ -18,6 +21,3 @@ E:\CSharpWorkSpace\ServerCenter\ServerCenter\bin\Debug\SuperSocket.SocketEngine.
 E:\CSharpWorkSpace\ServerCenter\ServerCenter\bin\Debug\SuperSocket.SocketEngine.xml
 E:\CSharpWorkSpace\ServerCenter\ServerCenter\obj\Debug\ServerCenter.exe
 E:\CSharpWorkSpace\ServerCenter\ServerCenter\obj\Debug\ServerCenter.pdb
-E:\ServerCenter\ServerCenter\bin\Debug\ServerCenter.exe.config
-E:\ServerCenter\ServerCenter\obj\Debug\ServerCenter.exe
-E:\ServerCenter\ServerCenter\obj\Debug\ServerCenter.pdb

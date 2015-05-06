@@ -22,6 +22,5 @@ namespace ServerCenter
         {
             get { return originalData; }
         }
-
     }
 }

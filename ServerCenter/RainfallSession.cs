@@ -7,11 +7,12 @@ using System.Text;
 
 namespace ServerCenter
 {
-    public class EchoSession : AppSession<EchoSession>
+    public class RainfallSession : AppSession<RainfallSession, RainfallRequestInfo>
     {
         private  static ILog LOGGER = log4net.LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
         protected override void OnSessionStarted()
         {
+            LOGGER.Debug("客户端地址为:" + base.RemoteEndPoint.Address + "端口为:" + base.RemoteEndPoint.Port);
             LOGGER.Debug("连接打开!");
         }
         protected override void HandleException(Exception e)
