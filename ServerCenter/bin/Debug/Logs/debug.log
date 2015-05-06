@@ -1,0 +1,72 @@
+﻿2015-05-05 17:24:17,334 [5096] DEBUG DefaultBootstrap - The server instance EchoServer has been created!
+2015-05-05 17:24:17,652 [5096] DEBUG EchoServer - The command ECHO(ServerCenter.Command.ECHO, ServerCenter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-05 17:24:17,990 [5096] DEBUG DefaultBootstrap - The server instance EchoServer has been initialized!
+2015-05-05 17:24:22,006 [5096] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-05-05 17:24:22,007 [5096] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-05-05 17:24:22,331 [5096] DEBUG EchoServer - Listener (0.0.0.0:12000) was started
+2015-05-05 17:24:22,351 [5096] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2015-05-05 17:26:02,217 [9188] DEBUG DefaultBootstrap - The server instance EchoServer has been created!
+2015-05-05 17:26:02,297 [9188] DEBUG EchoServer - The command ECHO(ServerCenter.Command.ECHO, ServerCenter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-05 17:26:02,325 [9188] DEBUG DefaultBootstrap - The server instance EchoServer has been initialized!
+2015-05-05 17:26:03,770 [9188] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-05-05 17:26:03,770 [9188] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-05-05 17:26:03,836 [9188] DEBUG EchoServer - Listener (0.0.0.0:12000) was started
+2015-05-05 17:26:03,846 [9188] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2015-05-05 17:29:44,356 [5024] DEBUG DefaultBootstrap - The server instance EchoServer has been created!
+2015-05-05 17:29:44,436 [5024] DEBUG EchoServer - The command ECHO(ServerCenter.Command.ECHO, ServerCenter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-05 17:29:44,465 [5024] DEBUG DefaultBootstrap - The server instance EchoServer has been initialized!
+2015-05-05 17:29:45,894 [5024] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-05-05 17:29:45,894 [5024] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-05-05 17:29:45,953 [5024] DEBUG EchoServer - Listener (0.0.0.0:12000) was started
+2015-05-05 17:29:45,962 [5024] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2015-05-05 17:29:50,796 [5024] DEBUG EchoServer - Listener (0.0.0.0:12000) was stoppped
+2015-05-05 17:29:50,841 [5024] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2015-05-05 17:56:46,505 [4852] DEBUG DefaultBootstrap - The server instance EchoServer has been created!
+2015-05-05 17:56:46,581 [4852] DEBUG EchoServer - The command ECHO(ServerCenter.Command.ECHO, ServerCenter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-05 17:56:46,608 [4852] DEBUG DefaultBootstrap - The server instance EchoServer has been initialized!
+2015-05-05 17:56:48,202 [4852] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-05-05 17:56:48,202 [4852] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-05-05 17:56:48,262 [4852] DEBUG EchoServer - Listener (0.0.0.0:12000) was started
+2015-05-05 17:56:48,271 [4852] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2015-05-05 17:58:11,666 [2304] DEBUG DefaultBootstrap - The server instance EchoServer has been created!
+2015-05-05 17:58:11,739 [2304] DEBUG EchoServer - The command ECHO(ServerCenter.Command.ECHO, ServerCenter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-05 17:58:11,768 [2304] DEBUG DefaultBootstrap - The server instance EchoServer has been initialized!
+2015-05-05 17:58:13,173 [2304] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-05-05 17:58:13,173 [2304] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-05-05 18:10:28,650 [7656] DEBUG DefaultBootstrap - The server instance EchoServer has been created!
+2015-05-05 18:10:28,725 [7656] DEBUG EchoServer - The command ECHO(ServerCenter.Command.ECHO, ServerCenter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-05 18:10:28,752 [7656] DEBUG DefaultBootstrap - The server instance EchoServer has been initialized!
+2015-05-05 18:10:30,377 [7656] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-05-05 18:10:30,377 [7656] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-05-05 18:10:30,438 [7656] DEBUG EchoServer - Listener (0.0.0.0:12000) was started
+2015-05-05 18:10:30,447 [7656] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2015-05-05 18:10:40,995 [9324] DEBUG ServerCenter.EchoSession - 连接打开!
+2015-05-05 18:10:43,534 [10056] DEBUG ServerCenter.EchoSession - 连接关闭!
+2015-05-05 18:10:43,875 [6368] DEBUG ServerCenter.EchoSession - 连接打开!
+2015-05-05 18:10:44,221 [10056] DEBUG ServerCenter.EchoSession - 连接关闭!
+2015-05-05 18:10:47,479 [7656] DEBUG EchoServer - Listener (0.0.0.0:12000) was stoppped
+2015-05-05 18:10:47,487 [7656] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2015-05-05 18:12:50,383 [6912] DEBUG DefaultBootstrap - The server instance EchoServer has been created!
+2015-05-05 18:12:50,524 [6912] DEBUG EchoServer - The command ECHO(ServerCenter.Command.ECHO, ServerCenter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-05 18:12:50,552 [6912] DEBUG DefaultBootstrap - The server instance EchoServer has been initialized!
+2015-05-05 18:12:51,990 [6912] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-05-05 18:12:51,990 [6912] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-05-05 18:12:52,071 [6912] DEBUG EchoServer - Listener (0.0.0.0:12000) was started
+2015-05-05 18:12:52,081 [6912] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2015-05-05 18:13:06,589 [4152] DEBUG ServerCenter.EchoSession - 连接打开!
+2015-05-05 18:13:07,028 [10080] DEBUG ServerCenter.EchoSession - 连接关闭!
+2015-05-05 18:13:07,410 [8096] DEBUG ServerCenter.EchoSession - 连接打开!
+2015-05-05 18:13:07,836 [4152] DEBUG ServerCenter.EchoSession - 连接关闭!
+2015-05-05 18:13:09,058 [10080] DEBUG ServerCenter.EchoSession - 连接打开!
+2015-05-05 18:13:10,389 [8096] DEBUG ServerCenter.EchoSession - 连接关闭!
+2015-05-05 18:19:49,537 [5184] DEBUG DefaultBootstrap - The server instance EchoServer has been created!
+2015-05-05 18:19:49,627 [5184] DEBUG EchoServer - The command ECHO(ServerCenter.Command.ECHO, ServerCenter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-05 18:19:49,658 [5184] DEBUG DefaultBootstrap - The server instance EchoServer has been initialized!
+2015-05-05 18:19:51,094 [5184] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-05-05 18:19:51,094 [5184] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-05-05 18:19:51,161 [5184] DEBUG EchoServer - Listener (0.0.0.0:12000) was started
+2015-05-05 18:19:51,170 [5184] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2015-05-05 18:20:05,802 [8368] DEBUG ServerCenter.EchoSession - 连接打开!
+2015-05-05 18:20:06,219 [10000] DEBUG ServerCenter.EchoSession - 连接关闭!
+2015-05-05 18:20:06,685 [9732] DEBUG ServerCenter.EchoSession - 连接打开!
+2015-05-05 18:20:07,137 [10000] DEBUG ServerCenter.EchoSession - 连接关闭!

@@ -1,0 +1,53 @@
+﻿2015-05-05 17:24:22,335 [5096] INFO  EchoServer - The server instance EchoServer has been started!
+2015-05-05 17:26:03,837 [9188] INFO  EchoServer - The server instance EchoServer has been started!
+2015-05-05 17:29:45,954 [5024] INFO  EchoServer - The server instance EchoServer has been started!
+2015-05-05 17:29:50,839 [5024] INFO  EchoServer - The server instance EchoServer has been stopped!
+2015-05-05 17:56:48,264 [4852] INFO  EchoServer - The server instance EchoServer has been started!
+2015-05-05 17:57:36,722 [5644] INFO  EchoServer - Session: 91315bcc-f297-4ac8-a217-6d24c9a940de/192.168.1.52:18148
+A new session connected!
+2015-05-05 17:57:39,427 [8412] INFO  EchoServer - Session: 91315bcc-f297-4ac8-a217-6d24c9a940de/192.168.1.52:18148
+This session was closed for ClientClosing!
+2015-05-05 17:57:39,813 [5184] INFO  EchoServer - Session: ec68bd66-0dfa-4dbe-9b51-229b60ac9ac3/192.168.1.52:18149
+A new session connected!
+2015-05-05 17:57:39,992 [5096] INFO  EchoServer - Session: ec68bd66-0dfa-4dbe-9b51-229b60ac9ac3/192.168.1.52:18149
+This session was closed for ClientClosing!
+2015-05-05 17:57:40,349 [5184] INFO  EchoServer - Session: 2362d20b-e923-425b-a33b-1f8f3fb0e589/192.168.1.52:18150
+A new session connected!
+2015-05-05 17:57:40,668 [5096] INFO  EchoServer - Session: 2362d20b-e923-425b-a33b-1f8f3fb0e589/192.168.1.52:18150
+This session was closed for ClientClosing!
+2015-05-05 17:57:41,006 [5184] INFO  EchoServer - Session: d4ea13a9-40fd-4ee5-93f1-75fb9bd708ac/192.168.1.52:18151
+A new session connected!
+2015-05-05 17:57:41,353 [5096] INFO  EchoServer - Session: d4ea13a9-40fd-4ee5-93f1-75fb9bd708ac/192.168.1.52:18151
+This session was closed for ClientClosing!
+2015-05-05 18:10:30,440 [7656] INFO  EchoServer - The server instance EchoServer has been started!
+2015-05-05 18:10:40,989 [7252] INFO  EchoServer - Session: 8d90f842-c3f9-496a-a72a-f2cf82cdd6b3/192.168.1.52:18569
+A new session connected!
+2015-05-05 18:10:43,530 [10056] INFO  EchoServer - Session: 8d90f842-c3f9-496a-a72a-f2cf82cdd6b3/192.168.1.52:18569
+This session was closed for ClientClosing!
+2015-05-05 18:10:43,875 [7252] INFO  EchoServer - Session: 219ba55d-0051-47cc-bc8c-626a248d3817/192.168.1.52:18571
+A new session connected!
+2015-05-05 18:10:44,220 [10056] INFO  EchoServer - Session: 219ba55d-0051-47cc-bc8c-626a248d3817/192.168.1.52:18571
+This session was closed for ClientClosing!
+2015-05-05 18:10:47,487 [7656] INFO  EchoServer - The server instance EchoServer has been stopped!
+2015-05-05 18:12:52,073 [6912] INFO  EchoServer - The server instance EchoServer has been started!
+2015-05-05 18:13:06,584 [9996] INFO  EchoServer - Session: a4037e0f-1f3b-4bdd-9709-384407e76872/192.168.1.52:18667
+A new session connected!
+2015-05-05 18:13:07,024 [10080] INFO  EchoServer - Session: a4037e0f-1f3b-4bdd-9709-384407e76872/192.168.1.52:18667
+This session was closed for ClientClosing!
+2015-05-05 18:13:07,409 [9996] INFO  EchoServer - Session: 14368a2d-b94c-4081-aa3c-f6baf28e508a/192.168.1.52:18668
+A new session connected!
+2015-05-05 18:13:07,835 [4152] INFO  EchoServer - Session: 14368a2d-b94c-4081-aa3c-f6baf28e508a/192.168.1.52:18668
+This session was closed for ClientClosing!
+2015-05-05 18:13:09,057 [4176] INFO  EchoServer - Session: a938c110-3cc3-4f1b-ab47-e6d5ff258749/192.168.1.52:18669
+A new session connected!
+2015-05-05 18:13:10,389 [8096] INFO  EchoServer - Session: a938c110-3cc3-4f1b-ab47-e6d5ff258749/192.168.1.52:18669
+This session was closed for ClientClosing!
+2015-05-05 18:19:51,163 [5184] INFO  EchoServer - The server instance EchoServer has been started!
+2015-05-05 18:20:05,797 [4976] INFO  EchoServer - Session: f088f880-180b-48e2-9249-4e85d17ae02f/192.168.1.52:18792
+A new session connected!
+2015-05-05 18:20:06,213 [10000] INFO  EchoServer - Session: f088f880-180b-48e2-9249-4e85d17ae02f/192.168.1.52:18792
+This session was closed for ClientClosing!
+2015-05-05 18:20:06,684 [4976] INFO  EchoServer - Session: 5909da19-7599-41ca-8244-b44a25d10966/192.168.1.52:18793
+A new session connected!
+2015-05-05 18:20:07,135 [10000] INFO  EchoServer - Session: 5909da19-7599-41ca-8244-b44a25d10966/192.168.1.52:18793
+This session was closed for ClientClosing!

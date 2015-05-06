@@ -1,0 +1,1 @@
+E:\CSharpWorkSpace\ServerCenter\ServerCenter\bin\Release\ServerCenter.exe.config

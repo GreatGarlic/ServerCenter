@@ -1,0 +1,70 @@
+﻿2015-05-05 17:29:46,092 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 62,169,088.00, Total Thread Count: 25
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+EchoServer ----------------------------------
+Started Time: 2015-05-05 17:29:45
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 10000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 1,666
+Total Sending Queue Items: 1,666
+
+2015-05-05 17:56:48,322 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 61,882,368.00, Total Thread Count: 26
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+EchoServer ----------------------------------
+Started Time: 2015-05-05 17:56:48
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 10000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 1,666
+Total Sending Queue Items: 1,666
+
+2015-05-05 18:10:30,500 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 62,038,016.00, Total Thread Count: 25
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+EchoServer ----------------------------------
+Started Time: 2015-05-05 18:10:30
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 10000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 1,666
+Total Sending Queue Items: 1,666
+
+2015-05-05 18:12:52,138 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 63,299,584.00, Total Thread Count: 25
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+EchoServer ----------------------------------
+Started Time: 2015-05-05 18:12:52
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 10000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 1,666
+Total Sending Queue Items: 1,666
+
+2015-05-05 18:19:51,227 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 62,394,368.00, Total Thread Count: 26
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+EchoServer ----------------------------------
+Started Time: 2015-05-05 18:19:51
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 10000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 1,666
+Total Sending Queue Items: 1,666
+
