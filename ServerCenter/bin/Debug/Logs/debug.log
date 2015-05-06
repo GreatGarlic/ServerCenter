@@ -70,3 +70,69 @@
 2015-05-05 18:20:06,219 [10000] DEBUG ServerCenter.EchoSession - 连接关闭!
 2015-05-05 18:20:06,685 [9732] DEBUG ServerCenter.EchoSession - 连接打开!
 2015-05-05 18:20:07,137 [10000] DEBUG ServerCenter.EchoSession - 连接关闭!
+2015-05-06 16:16:08,524 [7980] DEBUG DefaultBootstrap - The server instance RainfallServer has been created!
+2015-05-06 16:16:08,612 [7980] DEBUG RainfallServer - The command FE(ServerCenter.Command.QueryDeviceTime, ServerCenter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-06 16:16:08,639 [7980] DEBUG DefaultBootstrap - The server instance RainfallServer has been initialized!
+2015-05-06 16:16:10,228 [7980] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-05-06 16:16:10,228 [7980] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-05-06 16:16:10,297 [7980] DEBUG RainfallServer - Listener (0.0.0.0:12000) was started
+2015-05-06 16:16:10,308 [7980] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2015-05-06 16:21:20,678 [5840] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1
+2015-05-06 16:21:20,680 [5840] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:21:30,631 [5840] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:21:30,967 [5840] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1
+2015-05-06 16:21:30,968 [5840] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:21:31,902 [5968] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:21:32,741 [5968] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1
+2015-05-06 16:21:32,743 [5968] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:21:33,324 [5840] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:21:34,486 [5840] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1
+2015-05-06 16:21:34,489 [5840] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:21:35,405 [5968] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:21:36,292 [5968] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1
+2015-05-06 16:21:36,293 [5968] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:21:36,985 [5840] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:21:37,591 [5968] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1
+2015-05-06 16:21:37,593 [5968] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:21:38,661 [5840] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:21:39,302 [5968] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1
+2015-05-06 16:21:39,304 [5968] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:21:43,572 [5840] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:21:44,546 [5968] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1
+2015-05-06 16:21:44,549 [5968] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:21:49,071 [5968] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:21:49,891 [5840] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1
+2015-05-06 16:21:49,894 [5840] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:21:50,919 [5968] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:21:54,924 [5968] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1
+2015-05-06 16:21:54,925 [5968] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:21:58,961 [5968] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:23:08,064 [9756] DEBUG DefaultBootstrap - The server instance RainfallServer has been created!
+2015-05-06 16:23:08,151 [9756] DEBUG RainfallServer - The command FE(ServerCenter.Command.QueryDeviceTime, ServerCenter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-06 16:23:08,177 [9756] DEBUG DefaultBootstrap - The server instance RainfallServer has been initialized!
+2015-05-06 16:23:09,578 [9756] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-05-06 16:23:09,579 [9756] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-05-06 16:23:09,639 [9756] DEBUG RainfallServer - Listener (0.0.0.0:12000) was started
+2015-05-06 16:23:09,648 [9756] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2015-05-06 16:23:14,482 [8548] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1端口为:27459
+2015-05-06 16:23:14,484 [8548] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:23:15,321 [8548] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:23:16,861 [5780] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1端口为:27460
+2015-05-06 16:23:16,863 [5780] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:23:17,879 [5648] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:23:19,072 [5780] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1端口为:27461
+2015-05-06 16:23:19,074 [5780] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:23:20,144 [8548] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:23:21,877 [5780] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1端口为:27462
+2015-05-06 16:23:21,880 [5780] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:23:23,500 [5780] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:23:24,479 [5648] DEBUG ServerCenter.RainfallSession - 客户端地址为:192.168.137.1端口为:27463
+2015-05-06 16:23:24,482 [5648] DEBUG ServerCenter.RainfallSession - 连接打开!
+2015-05-06 16:23:25,922 [5780] DEBUG ServerCenter.RainfallSession - 连接关闭!
+2015-05-06 16:23:39,845 [5712] DEBUG DefaultBootstrap - The server instance RainfallServer has been created!
+2015-05-06 16:23:39,930 [5712] DEBUG RainfallServer - The command FE(ServerCenter.Command.QueryDeviceTime, ServerCenter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-06 16:23:39,956 [5712] DEBUG DefaultBootstrap - The server instance RainfallServer has been initialized!
+2015-05-06 16:23:41,334 [5712] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-05-06 16:23:41,335 [5712] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-05-06 16:23:41,399 [5712] DEBUG RainfallServer - Listener (0.0.0.0:12000) was started
+2015-05-06 16:23:41,409 [5712] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!

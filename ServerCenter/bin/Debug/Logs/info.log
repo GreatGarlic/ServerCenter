@@ -51,3 +51,66 @@ This session was closed for ClientClosing!
 A new session connected!
 2015-05-05 18:20:07,135 [10000] INFO  EchoServer - Session: 5909da19-7599-41ca-8244-b44a25d10966/192.168.1.52:18793
 This session was closed for ClientClosing!
+2015-05-06 16:16:10,300 [7980] INFO  RainfallServer - The server instance RainfallServer has been started!
+2015-05-06 16:21:20,668 [9268] INFO  RainfallServer - Session: 1499d600-af22-4bf8-9ee9-1b464e14f1af/192.168.137.1:27440
+A new session connected!
+2015-05-06 16:21:30,627 [5840] INFO  RainfallServer - Session: 1499d600-af22-4bf8-9ee9-1b464e14f1af/192.168.137.1:27440
+This session was closed for ClientClosing!
+2015-05-06 16:21:30,966 [9268] INFO  RainfallServer - Session: 15b35c03-0933-43e8-bb46-e3b8dbcfbf26/192.168.137.1:27441
+A new session connected!
+2015-05-06 16:21:31,901 [5968] INFO  RainfallServer - Session: 15b35c03-0933-43e8-bb46-e3b8dbcfbf26/192.168.137.1:27441
+This session was closed for ClientClosing!
+2015-05-06 16:21:32,740 [9268] INFO  RainfallServer - Session: 485eb544-af41-4030-b8b0-771fdfc5e745/192.168.137.1:27442
+A new session connected!
+2015-05-06 16:21:33,323 [5840] INFO  RainfallServer - Session: 485eb544-af41-4030-b8b0-771fdfc5e745/192.168.137.1:27442
+This session was closed for ClientClosing!
+2015-05-06 16:21:34,485 [9268] INFO  RainfallServer - Session: 104d8945-3773-4a02-8709-e0d321ef4220/192.168.137.1:27443
+A new session connected!
+2015-05-06 16:21:35,404 [5968] INFO  RainfallServer - Session: 104d8945-3773-4a02-8709-e0d321ef4220/192.168.137.1:27443
+This session was closed for ClientClosing!
+2015-05-06 16:21:36,291 [9268] INFO  RainfallServer - Session: ff546821-d783-4934-bff7-b1cacf41abbe/192.168.137.1:27444
+A new session connected!
+2015-05-06 16:21:36,984 [5840] INFO  RainfallServer - Session: ff546821-d783-4934-bff7-b1cacf41abbe/192.168.137.1:27444
+This session was closed for ClientClosing!
+2015-05-06 16:21:37,590 [9268] INFO  RainfallServer - Session: 10bb322f-6f42-402b-bcec-e3b79d0a586e/192.168.137.1:27445
+A new session connected!
+2015-05-06 16:21:38,660 [5840] INFO  RainfallServer - Session: 10bb322f-6f42-402b-bcec-e3b79d0a586e/192.168.137.1:27445
+This session was closed for ClientClosing!
+2015-05-06 16:21:39,301 [9988] INFO  RainfallServer - Session: ba879b1a-f127-40cc-b0e1-6ab95cfa9e17/192.168.137.1:27446
+A new session connected!
+2015-05-06 16:21:43,571 [5840] INFO  RainfallServer - Session: ba879b1a-f127-40cc-b0e1-6ab95cfa9e17/192.168.137.1:27446
+This session was closed for ClientClosing!
+2015-05-06 16:21:44,545 [9988] INFO  RainfallServer - Session: 241208d5-9109-4a16-a696-6a5c564de584/192.168.137.1:27448
+A new session connected!
+2015-05-06 16:21:49,070 [5968] INFO  RainfallServer - Session: 241208d5-9109-4a16-a696-6a5c564de584/192.168.137.1:27448
+This session was closed for ClientClosing!
+2015-05-06 16:21:49,890 [9988] INFO  RainfallServer - Session: 642155c0-29c3-450c-bd0f-f10feaff9396/192.168.137.1:27450
+A new session connected!
+2015-05-06 16:21:50,918 [5968] INFO  RainfallServer - Session: 642155c0-29c3-450c-bd0f-f10feaff9396/192.168.137.1:27450
+This session was closed for ClientClosing!
+2015-05-06 16:21:54,922 [9988] INFO  RainfallServer - Session: 366c9aa1-df82-4521-b2cd-d6f3da64cd40/192.168.137.1:27451
+A new session connected!
+2015-05-06 16:21:58,960 [5968] INFO  RainfallServer - Session: 366c9aa1-df82-4521-b2cd-d6f3da64cd40/192.168.137.1:27451
+This session was closed for ClientClosing!
+2015-05-06 16:23:09,641 [9756] INFO  RainfallServer - The server instance RainfallServer has been started!
+2015-05-06 16:23:14,472 [8840] INFO  RainfallServer - Session: c6de04c3-6dea-4e0c-9ce8-727c320a8008/192.168.137.1:27459
+A new session connected!
+2015-05-06 16:23:15,316 [8548] INFO  RainfallServer - Session: c6de04c3-6dea-4e0c-9ce8-727c320a8008/192.168.137.1:27459
+This session was closed for ClientClosing!
+2015-05-06 16:23:16,860 [8840] INFO  RainfallServer - Session: 7e4295f1-411b-40c8-bc1c-1eb9123f0713/192.168.137.1:27460
+A new session connected!
+2015-05-06 16:23:17,878 [5648] INFO  RainfallServer - Session: 7e4295f1-411b-40c8-bc1c-1eb9123f0713/192.168.137.1:27460
+This session was closed for ClientClosing!
+2015-05-06 16:23:19,070 [8840] INFO  RainfallServer - Session: 0deb8084-f3d8-404c-8cb3-563e8e44b084/192.168.137.1:27461
+A new session connected!
+2015-05-06 16:23:20,143 [8548] INFO  RainfallServer - Session: 0deb8084-f3d8-404c-8cb3-563e8e44b084/192.168.137.1:27461
+This session was closed for ClientClosing!
+2015-05-06 16:23:21,875 [1192] INFO  RainfallServer - Session: f5a04430-5e7c-4572-8afa-9e77e35eb416/192.168.137.1:27462
+A new session connected!
+2015-05-06 16:23:23,499 [5780] INFO  RainfallServer - Session: f5a04430-5e7c-4572-8afa-9e77e35eb416/192.168.137.1:27462
+This session was closed for ClientClosing!
+2015-05-06 16:23:24,479 [1192] INFO  RainfallServer - Session: 02c9a41b-d7c9-4197-9c40-8bf66287b7df/192.168.137.1:27463
+A new session connected!
+2015-05-06 16:23:25,921 [5780] INFO  RainfallServer - Session: 02c9a41b-d7c9-4197-9c40-8bf66287b7df/192.168.137.1:27463
+This session was closed for ClientClosing!
+2015-05-06 16:23:41,402 [5712] INFO  RainfallServer - The server instance RainfallServer has been started!
