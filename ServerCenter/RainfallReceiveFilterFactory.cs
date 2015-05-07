@@ -14,7 +14,7 @@ namespace ServerCenter
         public virtual IReceiveFilter<TRequestInfo> CreateFilter(IAppServer appServer, IAppSession appSession,
                                                          IPEndPoint remoteEndPoint)
         {
-            var filter = new RainfallReceiveFilter(appSession);
+            var filter = new RainfallReceiveFilterReserve(appSession);
             return (filter as IReceiveFilter<TRequestInfo>);
         }
     }
