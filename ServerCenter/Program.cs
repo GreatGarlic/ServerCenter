@@ -33,7 +33,7 @@ namespace ServerCenter
                 LOGGER.Error("协议解析器服务器未找到.");
                 return;
             }
-            LOGGER.Error("输入任意键结束...");
+            LOGGER.Debug("输入任意键结束...");
             Console.ReadLine();
             bootstrap.Stop();
         }
