@@ -62,8 +62,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Command\QueryHistoricalRainfall.cs" />
     <Compile Include="Command\QueryDeviceTime.cs" />
     <Compile Include="Command\QueryRealTimeRainfall.cs" />
+    <Compile Include="Command\QueryParameter.cs" />
+    <Compile Include="Command\SetParameter.cs" />
     <Compile Include="Convert\ConvertUtil.cs" />
     <Compile Include="RainfallReceiveFilterReserve.cs" />
     <Compile Include="RainfallServer.cs" />

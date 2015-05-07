@@ -10,6 +10,9 @@ using ServerCenter.Convert;
 
 namespace ServerCenter.Command
 {
+    /**
+    *读取实时雨量响应处理.
+    */
     public class QueryRealTimeRainfall : CommandBase<RainfallSession, RainfallRequestInfo>
     {
         private static ILog LOGGER = log4net.LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
@@ -51,7 +54,7 @@ namespace ServerCenter.Command
             }
             catch (Exception e)
             {
-                LOGGER.Error("=读取实时雨量数据响应错误:", e);
+                LOGGER.Error("读取实时雨量数据响应错误:", e);
             }
         }
     }
