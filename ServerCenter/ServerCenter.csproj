@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Command\QueryDeviceTime.cs" />
+    <Compile Include="Convert\ConvertUtil.cs" />
     <Compile Include="RainfallReceiveFilterReserve.cs" />
     <Compile Include="RainfallServer.cs" />
     <Compile Include="RainfallSession.cs" />
