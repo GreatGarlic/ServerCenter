@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ServerCenter</RootNamespace>
     <AssemblyName>ServerCenter</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -33,24 +33,32 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="log4net">
-      <HintPath>C:\Users\Administrator\Desktop\net35\Debug\log4net.dll</HintPath>
+    <Reference Include="log4net, Version=1.2.13.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\SuperSocket\log4net.dll</HintPath>
     </Reference>
-    <Reference Include="SuperSocket.Common">
-      <HintPath>C:\Users\Administrator\Desktop\net35\Debug\SuperSocket.Common.dll</HintPath>
+    <Reference Include="SuperSocket.Common, Version=1.6.4.0, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\SuperSocket\SuperSocket.Common.dll</HintPath>
     </Reference>
-    <Reference Include="SuperSocket.Facility">
-      <HintPath>C:\Users\Administrator\Desktop\net35\Debug\SuperSocket.Facility.dll</HintPath>
+    <Reference Include="SuperSocket.Facility, Version=1.6.4.0, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\SuperSocket\SuperSocket.Facility.dll</HintPath>
     </Reference>
-    <Reference Include="SuperSocket.SocketBase">
-      <HintPath>C:\Users\Administrator\Desktop\net35\Debug\SuperSocket.SocketBase.dll</HintPath>
+    <Reference Include="SuperSocket.SocketBase, Version=1.6.4.0, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\SuperSocket\SuperSocket.SocketBase.dll</HintPath>
     </Reference>
-    <Reference Include="SuperSocket.SocketEngine">
-      <HintPath>C:\Users\Administrator\Desktop\net35\Debug\SuperSocket.SocketEngine.dll</HintPath>
+    <Reference Include="SuperSocket.SocketEngine, Version=1.6.4.0, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\SuperSocket\SuperSocket.SocketEngine.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.configuration" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Threading">
+      <HintPath>..\packages\SuperSocket\System.Threading.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
