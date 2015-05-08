@@ -28,23 +28,23 @@ namespace ServerCenter.Command
                 float resolution = 0.0f;
                 if (body[0] == 0x01)
                 {
-                    resolution = 0.5f;
+                    resolution = 0.2f;
                 }
                 else if (body[0] == 0x02)
                 {
                     resolution = 0.5f;
                 }
-                else if (body[0] == 0x00)
+                else if (body[0] == 0x03)
                 {
-                    resolution = 0.5f;
+                    resolution = 1.0f;
                 }
                 int offset = 1;
-                float oneHours = ConvertUtil.bytes2Int(body.CloneRange(offset, 2));
-                float twoHours = ConvertUtil.bytes2Int(body.CloneRange(offset += 2, 2));
-                float threeHours = ConvertUtil.bytes2Int(body.CloneRange(offset += 2, 2));
-                float sixHours = ConvertUtil.bytes2Int(body.CloneRange(offset += 2, 2));
-                float twelveHours = ConvertUtil.bytes2Int(body.CloneRange(offset += 2, 2));
-                float twentyFourHours = ConvertUtil.bytes2Int(body.CloneRange(offset += 2, 2));
+                float oneHours = ConvertUtil.bytes2Int(body.CloneRange(offset, 2)) * resolution;
+                float twoHours = ConvertUtil.bytes2Int(body.CloneRange(offset += 2, 2)) * resolution;
+                float threeHours = ConvertUtil.bytes2Int(body.CloneRange(offset += 2, 2)) * resolution;
+                float sixHours = ConvertUtil.bytes2Int(body.CloneRange(offset += 2, 2)) * resolution;
+                float twelveHours = ConvertUtil.bytes2Int(body.CloneRange(offset += 2, 2)) * resolution;
+                float twentyFourHours = ConvertUtil.bytes2Int(body.CloneRange(offset += 2, 2)) * resolution;
                 LOGGER.Debug("一小时雨量:" + oneHours);
                 LOGGER.Debug("两小时雨量:" + twoHours);
                 LOGGER.Debug("三小时雨量:" + threeHours);
