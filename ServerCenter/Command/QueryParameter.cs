@@ -18,6 +18,19 @@ namespace ServerCenter.Command
         public override string Name { get { return "FC"; } }
         public override void ExecuteCommand(RainfallSession session, RainfallRequestInfo requestInfo)
         {
+            int bodyLength = requestInfo.Body.Length;
+            if (bodyLength == 1)
+            {
+                if (requestInfo.Body[0] == 0x52)
+                {
+                    LOGGER.Debug("参数设置成功");
+                }
+                else if (requestInfo.Body[0] == 0x51)
+                {
+                    LOGGER.Debug("参数设置失败");
+                }
+                return;
+            }
             //时间
             byte[] timeBytes = requestInfo.Body.CloneRange(0, 6);
             DateTime dt = ConvertUtil.Bcd2Date(timeBytes);
