@@ -20,16 +20,9 @@ namespace ServerCenter.Command
         public override void ExecuteCommand(RainfallSession session, RainfallRequestInfo requestInfo)
         {
             LOGGER.Debug("===================读取设备时间响应处理====================");
-            int offset = 0;
             byte[] body = requestInfo.Body;
-            int year = ConvertUtil.byteToBCD(body[offset++])+2000;
-            int month = ConvertUtil.byteToBCD(body[offset++]);
-            int day = ConvertUtil.byteToBCD(body[offset++]);
-            int hour = ConvertUtil.byteToBCD(body[offset++]);
-            int minute = ConvertUtil.byteToBCD(body[offset++]);
-            int second = ConvertUtil.byteToBCD(body[offset++]);
-            DateTime dt = new DateTime(year, month, day, hour, minute, second);
-            LOGGER.Debug("设备时间:"+dt.ToString("yyyy年MM月dd日hh:mm:ss"));
+            DateTime dt = ConvertUtil.Bcd2Date(body);
+            LOGGER.Debug("设备时间:" + dt.ToString("yyyy年MM月dd日hh:mm:ss"));
         }
     }
 }

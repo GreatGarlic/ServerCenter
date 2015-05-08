@@ -65,5 +65,16 @@ namespace ServerCenter.Convert
             }
             return result;
         }
+
+        public static DateTime Bcd2Date(byte[] src) {
+            int offset = 0;
+            int year = ConvertUtil.byteToBCD(src[offset++]) + 2000;
+            int month = ConvertUtil.byteToBCD(src[offset++]);
+            int day = ConvertUtil.byteToBCD(src[offset++]);
+            int hour = ConvertUtil.byteToBCD(src[offset++]);
+            int minute = ConvertUtil.byteToBCD(src[offset++]);
+            int second = ConvertUtil.byteToBCD(src[offset++]);
+            return new DateTime(year, month, day, hour, minute, second);
+        }
     }
 }
