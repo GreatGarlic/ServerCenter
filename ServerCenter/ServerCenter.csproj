@@ -68,6 +68,7 @@
     <Compile Include="Command\QueryParameter.cs" />
     <Compile Include="Command\SetParameter.cs" />
     <Compile Include="Convert\ConvertUtil.cs" />
+    <Compile Include="Entity\HistoricalRainfall.cs" />
     <Compile Include="RainfallReceiveFilterReserve.cs" />
     <Compile Include="RainfallServer.cs" />
     <Compile Include="RainfallSession.cs" />
@@ -78,9 +79,7 @@
     <Compile Include="RainfallRequestInfo.cs" />
     <Compile Include="RainfallRequestHeader.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Entity\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="app.config" />
     <Content Include="Config\log4net.config">
