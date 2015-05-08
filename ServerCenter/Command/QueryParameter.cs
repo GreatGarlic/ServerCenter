@@ -22,11 +22,7 @@ namespace ServerCenter.Command
             byte[] timeBytes = requestInfo.Body.CloneRange(0, 6);
             DateTime dt = ConvertUtil.Bcd2Date(timeBytes);
             LOGGER.Debug("设备时间:" + dt.ToString("yyyy年MM月dd日hh:mm:ss"));
-
-
-
-
-
+            //18组报警阀值内容
             byte[] alarmValueListBytes = requestInfo.Body.CloneRange(6, 36);
             //雨量计分辨率
             byte resolutionByte = requestInfo.Body[requestInfo.Body.Length - 1];
@@ -43,12 +39,17 @@ namespace ServerCenter.Command
             {
                 resolution = 1.0f;
             }
-
-
-
-
-
-
+            List<float> alarmValueList = new List<float>();
+            for (int i = 0; i < alarmValueListBytes.Length / 2; i++)
+            {
+                float alarmValue = ConvertUtil.bytes2Int(alarmValueListBytes.CloneRange(i * 2, 2)) * resolution;
+                alarmValueList.Add(alarmValue);
+            }
+            int offset = 1;
+            foreach (float value in alarmValueList)
+            {
+                LOGGER.DebugFormat("第[{0}]组报警阀值[{1}]", offset++, value);
+            }
 
         }
     }
