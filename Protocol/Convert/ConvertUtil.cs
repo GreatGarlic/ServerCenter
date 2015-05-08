@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ServerCenter.Convert
+namespace Protocol.Convert
 {
     class ConvertUtil
     {

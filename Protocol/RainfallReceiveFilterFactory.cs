@@ -6,7 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 
-namespace ServerCenter
+namespace Protocol
 {
     class RainfallReceiveFilterFactory<TRequestInfo> : IReceiveFilterFactory<TRequestInfo>
         where TRequestInfo : IRequestInfo

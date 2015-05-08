@@ -7,7 +7,7 @@ using System.Linq;
 using log4net;
 using System.Reflection;
 
-namespace ServerCenter
+namespace Protocol
 {
     class Program
     {

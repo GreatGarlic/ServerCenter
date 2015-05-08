@@ -1,5 +1,5 @@
 ﻿using log4net;
-using ServerCenter.Convert;
+using Protocol.Convert;
 using SuperSocket.SocketBase.Command;
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 
-namespace ServerCenter.Command
+namespace Protocol.Command
 {
     /**
      * 读取设备时间响应处理.

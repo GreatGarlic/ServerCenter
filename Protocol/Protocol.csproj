@@ -7,8 +7,8 @@
     <ProjectGuid>{6EA31E23-165C-40D7-B163-C16C5943A082}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ServerCenter</RootNamespace>
-    <AssemblyName>ServerCenter</AssemblyName>
+    <RootNamespace>Protocol</RootNamespace>
+    <AssemblyName>Protocol</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

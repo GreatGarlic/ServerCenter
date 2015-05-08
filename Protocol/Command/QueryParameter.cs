@@ -4,10 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using SuperSocket.Common;
-using ServerCenter.Convert;
+using Protocol.Convert;
 using log4net;
 using System.Reflection;
-namespace ServerCenter.Command
+namespace Protocol.Command
 {
     /**
     *读取参数响应处理.

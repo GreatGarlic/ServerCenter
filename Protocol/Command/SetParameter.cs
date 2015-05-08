@@ -1,5 +1,5 @@
 ﻿using log4net;
-using ServerCenter.Convert;
+using Protocol.Convert;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Text;
 using SuperSocket.Common;
 using SuperSocket.SocketBase;
 using SuperSocket.SocketBase.Command;
-namespace ServerCenter.Command
+namespace Protocol.Command
 {
     /**
     *参数设置响应处理.

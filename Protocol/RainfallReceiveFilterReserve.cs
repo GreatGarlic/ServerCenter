@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using SuperSocket.Common;
 
-namespace ServerCenter
+namespace Protocol
 {
     class RainfallReceiveFilterReserve : FixedHeaderReceiveFilter<RainfallRequestInfo>
     {

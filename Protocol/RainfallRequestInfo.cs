@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ServerCenter
+namespace Protocol
 {
     public class RainfallRequestInfo : BinaryRequestInfo
     {   

@@ -6,11 +6,11 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using SuperSocket.Common;
-using ServerCenter.Entity;
-using ServerCenter.Convert;
+using Protocol.Entity;
+using Protocol.Convert;
 
 
-namespace ServerCenter.Command
+namespace Protocol.Command
 {
     /**
     * 读取历史雨量响应处理.

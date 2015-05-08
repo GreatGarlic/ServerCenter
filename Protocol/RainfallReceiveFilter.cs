@@ -6,7 +6,7 @@ using SuperSocket.Common;
 using System.Reflection;
 using log4net;
 
-namespace ServerCenter
+namespace Protocol
 {
     /*
      * 解码器.

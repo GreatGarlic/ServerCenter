@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Text;
 
-namespace ServerCenter
+namespace Protocol
 {
     public class RainfallSession : AppSession<RainfallSession, RainfallRequestInfo>
     {

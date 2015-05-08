@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ServerCenter.Entity
+namespace Protocol.Entity
 {
     /*
      * 雨量历史数据实体对象.
