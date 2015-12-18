@@ -9,7 +9,7 @@ namespace Protocol
 {
     public class RainfallSession : AppSession<RainfallSession, RainfallRequestInfo>
     {
-        private static ILog LOGGER = log4net.LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
+        private static ILog LOGGER = log4net.LogManager.GetLogger(typeof(RainfallSession));
         protected override void OnSessionStarted()
         {
             LOGGER.Debug("客户端地址为:" + base.RemoteEndPoint.Address + "端口为:" + base.RemoteEndPoint.Port);
