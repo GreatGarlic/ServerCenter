@@ -15,7 +15,7 @@ namespace Protocol
         public RainfallRequestInfo(string key, RainfallRequestHeader header, byte[] originalData)
             : base(key, header.Body)
         {
-            Header = header;
+            Header = header;    
             this.originalData = originalData;
         }
         public byte[] OriginalData
