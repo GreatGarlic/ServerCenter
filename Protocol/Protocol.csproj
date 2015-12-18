@@ -89,7 +89,7 @@
   <ItemGroup>
     <None Include="app.config" />
     <Content Include="Config\log4net.config">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <None Include="packages.config" />
     <None Include="supersocket.cmd" />
