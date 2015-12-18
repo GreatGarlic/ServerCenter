@@ -4,3 +4,5 @@ obj/
 *.user
 packages/
 .vs/
+supersocket.cmd
+supersocket.sh
