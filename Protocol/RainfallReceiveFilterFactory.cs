@@ -14,6 +14,9 @@ namespace Protocol
         public virtual IReceiveFilter<TRequestInfo> CreateFilter(IAppServer appServer, IAppSession appSession,
                                                          IPEndPoint remoteEndPoint)
         {
+            //通过session获取服务实例.
+            RainfallServer server=appSession.AppServer as RainfallServer;
+
             var filter = new RainfallReceiveFilterReserve(appSession);
             return (filter as IReceiveFilter<TRequestInfo>);
         }
