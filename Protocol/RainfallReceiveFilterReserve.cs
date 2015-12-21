@@ -17,18 +17,18 @@ namespace Protocol
             AppSession = appSession;
         }
         /// <summary>
-        /// 
+        /// 从报文头部获取报文body的长度.
         /// </summary>
         /// <param name="header">缓冲区</param>
         /// <param name="offset">报文头部的起始位置</param>
         /// <param name="length">报文头部的长度</param>
-        /// <returns></returns>
+        /// <returns>报文body的长度</returns>
         protected override int GetBodyLengthFromHeader(byte[] header, int offset, int length)
         {
             return ((int)header[offset + 1]) + 1;
         }
         /// <summary>
-        /// 
+        /// 获取报文body并解析为领域对象.
         /// </summary>
         /// <param name="header">报文头部的内容</param>
         /// <param name="bodyBuffer">缓冲区</param>
