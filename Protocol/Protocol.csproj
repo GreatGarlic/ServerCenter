@@ -80,7 +80,6 @@
     <Compile Include="RainfallSession.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RainfallReceiveFilter.cs" />
     <Compile Include="RainfallReceiveFilterFactory.cs" />
     <Compile Include="RainfallRequestInfo.cs" />
     <Compile Include="RainfallRequestHeader.cs" />
